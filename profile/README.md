@@ -1,4 +1,4 @@
-#Jump Apps - building apps that last.
+# Jump Apps - building apps that last.
 
 Hi! My name is Tim Kumpat. I'm a 17 year old founder and software engineer from germany. I started Jump Apps and it's just me. 
 
